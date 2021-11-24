@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pescheck-bram
 - 👀 I’m interested in Programming, hacking, bots, nature.
-- 🌱 I’m currently learning how to create a selfhosted kubernetes cluster.
+- 🌱 I’m currently learning how to scan the internet within 1 minute.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me bram+github@pescheck.nl
 
